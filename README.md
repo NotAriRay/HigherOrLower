@@ -7,5 +7,7 @@ HigherOrLower (HOL) started as a LUA script when I was learning how to make Gmod
 
 
 KEEP IN MIND:
-
-      The visual version of HOL REQUIRES the wxPython package and all of its dependicies!!!
+''''
+   The visual version of HOL REQUIRES the wxPython package and all of its dependicies!!!
+   
+''''
