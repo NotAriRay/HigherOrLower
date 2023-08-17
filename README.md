@@ -10,4 +10,4 @@ KEEP IN MIND:
 
    The visual version of HOL REQUIRES the wxPython package and all of its dependicies!!!
 
-   You can get wxPython [here](https://wxpython.org/index.html)
+   You can get wxPython [here](https://wxpython.org/index.html).
